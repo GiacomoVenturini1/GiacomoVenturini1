@@ -35,4 +35,3 @@ Built with Pandas and Scikit-learn. Achieves 79% accuracy.
 ## 📫 Contact
 📧 giacomo.venturini4@studio.unibo.it  
 📍 Bologna, Italy
-🎯 Currently looking for internship/research opportunities in Data Science
