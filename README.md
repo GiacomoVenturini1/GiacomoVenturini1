@@ -17,7 +17,7 @@ Bachelor's degree in Mathematics (109/110) · Erasmus @ KU Leuven
 ### [Network of Thrones](https://github.com/GiacomoVenturini1/Network_of_Thrones)
 Network analysis of the Game of Thrones character interaction graph.  
 Centrality measures, community detection (Louvain, Girvan-Newman, Greedy),  
-clique analysis — implemented in Python with NetworkX.
+clique analysis, implemented in Python with NetworkX.
 
 ### [Customer Churn Predictor](https://github.com/GiacomoVenturini1/Customer_Churn_Predictor)
 Logistic regression pipeline to predict telecom customer churn.  
